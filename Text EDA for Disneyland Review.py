@@ -1,7 +1,7 @@
 ######################################################################
 import os
 import string
-from tabulate import tabulate as tab
+import tabulate as tab
 import pandas as pd
 import numpy as np
 import matplotlib
